@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/EasyDarwin/EasyDarwin/models"
-	"github.com/EasyDarwin/EasyDarwin/rtsp"
+	"EasyDarwin/models"
+	"EasyDarwin/rtsp"
 	"github.com/MeloQi/EasyGoLib/db"
 	"github.com/MeloQi/EasyGoLib/utils"
 	"github.com/MeloQi/sessions"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/EasyDarwin/EasyDarwin/rtsp"
+	"EasyDarwin/rtsp"
 	"github.com/MeloQi/EasyGoLib/utils"
 	"github.com/gin-gonic/gin"
 )
